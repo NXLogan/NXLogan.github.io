@@ -1,0 +1,1 @@
+function e(e=1.5){return typeof window>`u`?1:Math.min(window.devicePixelRatio||1,e)}export{e as t};
